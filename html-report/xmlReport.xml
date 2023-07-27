@@ -1,0 +1,13 @@
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="37.049658000001685">
+<testsuite name="tests\loginTest.spec.ts" timestamp="2023-07-27T05:51:09.198Z" hostname="chrome" tests="1" failures="0" skipped="0" time="33.152" errors="0">
+<testcase name="Automation for login › Login Page Automation" classname="tests\loginTest.spec.ts" time="33.152">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results\tests-loginTest-Automation-for-login-Login-Page-Automation-chrome\test-finished-1.png]]
+
+[[ATTACHMENT|test-results\tests-loginTest-Automation-for-login-Login-Page-Automation-chrome\trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>
